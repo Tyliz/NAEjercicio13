@@ -1,0 +1,27 @@
+{
+	"name": "naejercicio13",
+	"version": "1.0.0",
+	"description": "Ejercicio 13 clase Open Bootcamp JavaScript Basico",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Tyliz/NAEjercicio13.git"
+	},
+	"keywords": [
+		"JavaScrip"
+	],
+	"author": "Tyliz",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Tyliz/NAEjercicio13/issues"
+	},
+	"homepage": "https://github.com/Tyliz/NAEjercicio13#readme",
+	"dependencies": {
+		"chalk": "^5.2.0"
+	}
+}
